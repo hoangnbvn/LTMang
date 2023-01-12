@@ -1,0 +1,10 @@
+hust joins chat room.
+hust : hi
+hust : hello
+soict joins chat room.
+soict : hello
+hust : hih
+soict : bye
+soict left room chat.
+hust : bye
+hust left room chat.

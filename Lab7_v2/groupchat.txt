@@ -1,0 +1,12 @@
+soict join the chatroom.
+soict：hihi
+soict：hello
+soict：sssc
+hust join the chatroom.
+hust：sssde
+soict：ohhh
+hust：wooow
+hust：bye
+hust leave the chatroom.
+soict：bye
+soict leave the chatroom.
